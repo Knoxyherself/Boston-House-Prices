@@ -1,30 +1,7 @@
 ---
-title: "Boston Project - Samantha Knox C1000466"
-output:
-  word_document: default
-  pdf_document: default
-  html_document: default
----
+# Boston Project
+### Samantha Knox
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-
-library(nclSLR)
-library(ggplot2)
-library(ggcorrplot)
-library(corrplot)
-library(leaps)
-library(glmnet)
-library(magrittr)
-library(dplyr)
-library(Metrics)
-library(psych)
-library(caret)
-
-
-#install.packages("r package", repos = "http://cran.us.r-project.org")
-
-```
 
 ## Introduction
 
